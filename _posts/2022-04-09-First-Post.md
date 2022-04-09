@@ -9,4 +9,4 @@ excerpt_separator: <!--more-->
 # My first blog
 
 Hello I am learning how to use github pages.
-[first image](assets/posts/022-04-09-First-Post/bar.png)
+![first image](assets/posts/022-04-09-First-Post/bar.png)
